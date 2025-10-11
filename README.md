@@ -1,110 +1,83 @@
-<!-- Modern GitHub Profile README for Wassim Hamdi -->
-<div align="center">
-
-# 👋 Hi, I'm **Wassim Hamdi**  
-### 🚀 Full Stack Developer | 💡 Passionate about DevOps & Cloud | 🇹🇳 Tunisia  
-
-![Profile Views](https://komarev.com/ghpvc/?username=wassimhamdi2&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/wassimhamdi2?label=Follow&style=social)](https://github.com/wassimhamdi2)
-[![Linkedin Badge](https://img.shields.io/badge/-Wassim%20Hamdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hamdiwassim)
-
-</div>
-
----
-
-## 🧑‍💻 About Me  
-🎓 **Master’s student in Software Engineering** at ISET Sfax.  
-💼 **Full Stack Developer** experienced in **Angular**, **Spring Boot**, and **DevOps pipelines**.  
-🌍 I love building modern, scalable web apps and optimizing software delivery with **CI/CD & Cloud technologies**.  
-⚙️ I’m passionate about **clean architecture**, **automation**, and **Industry 4.0 innovation**.  
-📫 Reach me: **whamdi617@gmail.com**  
-🌐 Portfolio: [**wassimhamdi.dev**](https://portfolio-dusky-xi-fcqm31is19.vercel.app/)  
-
----
-
-## 🚀 Featured Projects  
-
-### 🧭 **Maintenance Dashboard (Industry 4.0) — MOMSOFT**
-> **Tech Stack:** Angular · Spring Boot · MySQL · MongoDB · Tailwind CSS · Jenkins · SonarQube · Docker · AKS  
-- Designed and developed a **maintenance dashboard** for industrial monitoring (MTTR, MTBF, Availability).  
-- Implemented **interactive analytics**, **multi-level filters**, and **real-time KPI visualization**.  
-- Built a **CI/CD pipeline** with Jenkins & SonarQube to automate testing and deployment.
-
----
-
-### 📱 **Educational Mobile App — Faculty of Sciences of Gafsa**
-> **Tech Stack:** Flutter · Dart · Firebase · GitHub  
-- Developed a cross-platform app for students and teachers to share courses, quizzes, and messages.  
-- Integrated **real-time Firestore**, **push notifications**, and **secure authentication**.  
-
----
-
-### 💼 **Inventory Management App**
-> **Tech Stack:** Angular · Spring Boot · Java · Bootstrap  
-- Built a product & stock management web app with report generation and CRUD operations.  
-
----
-
-### 🌐 **Landing Page — STAR Assurances**
-> **Tech Stack:** HTML · CSS · JavaScript · SEO  
-- Created a responsive, SEO-optimized landing page for a Tunisian insurance company.  
-
----
-
-## 🧠 Tech Stack  
+<h1 align="center">Hi 👋, I'm Wassim Hamdi</h1>
+<h3 align="center">Full-Stack Developer & IoT Enthusiast from Tunisia</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,dotnet,php,symfony,react" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,postman,azure" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" /><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,html,css,bootstrap,tailwind" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud  
-- **CI/CD**: Jenkins, GitLab CI, SonarQube, Nexus  
-- **Containerization**: Docker, Kubernetes  
-- **Cloud**: Azure Kubernetes Service (AKS)  
-- **Version Control**: Git, GitHub  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wassimhamdi2&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wassimhamdi2&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhamdi2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=discord&no-frame=true&margin-w=10&column=6" />
-</p>
-
----
-
-## 🌍 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/hamdiwassim" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48"/>
-  </a>
-  <a href="mailto:whamdi617@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48"/>
-  </a>
   <a href="https://github.com/wassimhamdi2">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+    <img src="https://komarev.com/ghpvc/?username=wassimhamdi2&label=Profile%20views&color=0e75b6" alt="Profile views"/>
   </a>
 </p>
 
 ---
 
-✨ *"Strive for progress, not perfection."*  
-⭐️ From [**WassimHamdi2**](https://github.com/wassimhamdi2)
+## 🚀 About Me
+I'm a passionate developer specializing in **Full-Stack Web Development** and **IoT systems**. I love building smart applications, connecting hardware with software, and creating innovative solutions using **Raspberry Pi, Arduino, and ESP boards**.
+
+- 🌱 Currently exploring **AI integration in IoT** and advanced web dashboards  
+- 💻 Experienced in **Angular, Spring Boot, Java, .NET, Python**  
+- 🔌 Hands-on with **IoT hardware**: Raspberry Pi, ESP32, Arduino  
+- 🎯 Focused on **creating interactive dashboards** and smart automation systems  
+
+---
+
+## 🛠 Skills
+<table>
+<tr>
+  <td><b>Frontend</b></td><td>Angular, HTML5, CSS3, JavaScript, TailwindCSS</td>
+</tr>
+<tr>
+  <td><b>Backend</b></td><td>Java (Spring Boot), .NET 8, Node.js</td>
+</tr>
+<tr>
+  <td><b>Databases</b></td><td>MySQL, MongoDB, Redis, SQLite</td>
+</tr>
+<tr>
+  <td><b>IoT & Hardware</b></td><td>Arduino, ESP32, Raspberry Pi, Sensors, Actuators</td>
+</tr>
+<tr>
+  <td><b>Tools & Platforms</b></td><td>Git, GitHub, Docker, VS Code, Postman</td>
+</tr>
+<tr>
+  <td><b>Cloud & APIs</b></td><td>REST API, JWT, Firebase, IoT MQTT</td>
+</tr>
+</table>
+
+---
+
+## 💡 Projects
+Here are some projects from my GitHub demonstrating both web and IoT work:
+
+### 1. **SavApp (Post-Sale Service Platform)**
+- **Tech:** ASP.NET Core, Blazor, Entity Framework Core
+- **Features:** Client complaint management, technical interventions, spare parts tracking, dynamic dashboards
+- **Link:** [SavApp GitHub](https://github.com/wassimhamdi2/SavApp)
+
+### 2. **Maintenance Dashboard (Confiserie TRIKI)**
+- **Tech:** Angular 18, Spring Boot, MySQL, MongoDB
+- **Features:** Real-time MTBF & MTTR metrics, filtering, KPIs, interactive charts
+- **Link:** [Maintenance Dashboard](https://github.com/wassimhamdi2/D31-Maintenance-Dashboard)
+
+### 3. **IoT Smart Home Project**
+- **Tech:** ESP32, Raspberry Pi, Arduino, MQTT, Python
+- **Features:** Remote sensor monitoring, automation, real-time data visualization
+- **Link:** [IoT Smart Home](https://github.com/wassimhamdi2/IoT-Smart-Home)
+
+### 4. **To-Do JavaFX App**
+- **Tech:** Java, JavaFX, SQLite
+- **Features:** Task management, local database, modern UI
+- **Link:** [To-Do App](https://github.com/wassimhamdi2/ToDoApp)
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/wassim-hamdi-2b635a233/" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/wassimhamdi2" target="_blank">GitHub</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy **combining IoT hardware with web applications**, creating dashboards that control sensors and visualize data in real-time. Essentially, I make machines "talk" to apps! 🤖💡
+
+---
+
