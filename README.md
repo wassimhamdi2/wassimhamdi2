@@ -19,27 +19,6 @@
 
 ---
 
-## 🔥 Latest Project
-
-### 🚀 [Project Name]
-*A brief description of your latest project*
-
-**Tech Stack:** 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Key Features:**
-- Feature 1
-- Feature 2  
-- Feature 3
-
-**Links:**
-- [Live Demo]() | [Repository]() | [Documentation]()
-
----
-
 ### 🧠 Tech Stack & Tools  
 
 <p align="center">
@@ -92,7 +71,7 @@
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it's bad."*  
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 ⭐️ From [WassimHamdi2](https://github.com/wassimhamdi2)
 
 </div>
