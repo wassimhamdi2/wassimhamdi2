@@ -30,7 +30,7 @@
 <!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" /><br/>
 <!-- Others -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,bootstrap" />
 
 </p>
 
