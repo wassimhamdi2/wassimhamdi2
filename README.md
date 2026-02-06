@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tunisia-0ea5e9?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Sfax%2C%20Tunisia-0ea5e9?style=flat" />
   <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-22c55e?style=flat" />
   <img src="https://img.shields.io/badge/DevOps-Enthusiast-f97316?style=flat" />
 </p>
@@ -12,17 +12,16 @@
 <p align="center">
   <a href="mailto:whamdi617@gmail.com">Email</a> ·
   <a href="https://linkedin.com/in/hamdiwassim">LinkedIn</a> ·
-  <a href="https://portfolio-dusky-xi-fcqm31is19.vercel.app/">Portfolio</a>
+  <a href="https://portfolio-dusky-xi-fcqm31is19.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/wassimhamdi2">GitHub</a>
 </p>
 
 ---
 
 ## ✨ Profile
 
-Software Engineering student specialized in **Full Stack Development** with strong interest in  
-**DevOps, modern web architectures, and scalable systems**.
-
-I enjoy building **clean**, **maintainable**, and **production-ready** applications using modern frameworks and best practices.
+Full Stack Developer with a **Master in Software Engineering**, passionate about **Full Stack Development** and **DevOps practices**.  
+Curious, rigorous, and adaptable, motivated to create **high-performance, scalable, and maintainable applications**.
 
 ---
 
@@ -35,17 +34,27 @@ I enjoy building **clean**, **maintainable**, and **production-ready** applicati
 
 <p align="center">
   <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,php,symfony" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,php,symfony,nodejs" />
 </p>
 
 <p align="center">
   <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+<p align="center">
+  <b>Mobile & Cross-platform</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,android" />
 </p>
 
 <p align="center">
   <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,postman,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,gitlab,linux,postman,azure" />
+</p>
+
+<p align="center">
+  <b>Methodologies & IDEs</b><br/>
+  Agile/Scrum · VSCode · IntelliJ · WebStorm · Eclipse · DockerDesktop · GitHubDesktop
 </p>
 
 ---
@@ -53,73 +62,68 @@ I enjoy building **clean**, **maintainable**, and **production-ready** applicati
 ## 🏗️ Experience Highlights
 
 ### **MOMSOFT — Full Stack Developer (PFE Project)**  
-`Spring Boot · Angular · Docker · Jenkins · CI/CD`
+📅 Jan 2025 – Jun 2025 · Manouba, Tunisia  
+`Spring Boot · Angular · Docker · Jenkins · GitLab · CI/CD`
 
-- Development of a **maintenance dashboard** for Industry 4.0  
-- KPI calculation (MTTR, MTBF, availability)  
-- Clean architecture & UML modeling  
-- Dockerized backend and automated CI/CD pipelines  
+- Developed **Industry 4.0 maintenance dashboard**  
+- KPI visualization (MTTR, MTBF, availability)  
+- Dockerized backend for portability  
+- Automated CI/CD pipelines with Jenkins & GitLab  
 - Agile Scrum methodology
 
 ---
 
-### **Confiserie TRIKI — Maintenance Dashboard Project (D31)**  
-`Angular · Spring Boot · MySQL · Redis · MongoDB`
+### **MOMSOFT — Student Internship Project**  
+📅 Feb 2023 – May 2023 · Gafsa, Tunisia  
+`Spring Boot · Angular · UML · CI/CD`
 
-- Interactive dashboard for maintenance managers  
-- Real-time indicators and filtering (factory, line, machine)  
-- Performance and reliability metrics visualization
-
----
-
-## 🎓 Academic Projects
-
-### **1. Post-Sale Service Management Application (SavApp)**  
-📅 2024  
-
-Web application to manage **client complaints, technical interventions, and spare parts**.
-
-**✨ Features**
-- Client authentication and complaint submission  
-- Warranty-based intervention cost calculation  
-- Spare parts and labor management  
-- Role-based access (Client / SAV Manager)
-
-**🛠️ Tech Stack**  
-<img src="https://skillicons.dev/icons?i=dotnet,cs,sqlserver,blazor" />
+- Developed **mobile and web modules**  
+- Designed dashboard for technical process digitalization  
+- Applied clean architecture & MVC best practices
 
 ---
 
-### **2. Library Management System** 📚  
-📅 2024  
+### **Library Management System (Academic Project)**  
+📅 Jan 2024 – Mar 2024  
+`Symfony · EasyAdmin · PHP · MySQL · Bootstrap`
 
-Application for managing books, users, and borrowing operations.
-
-**✨ Features**
-- Secure admin back-office  
-- CRUD operations with validation  
-- Clean and responsive UI
-
-**🛠️ Tech Stack**  
-<img src="https://skillicons.dev/icons?i=symfony,php,mysql,bootstrap" />
+- Full-featured back-office application  
+- User-friendly interface for managing books, authors, and sales  
+- Secure access with role management
 
 ---
 
-### **3. Student Management Application** 🎓  
-📅 2024  
+### **Educational Mobile App (Academic Project)**  
+📅 2023  
+`Flutter · Dart · Firebase · GitHub · Agile`
 
-Web application to manage students, grades, and attendance with secure authentication.
+- Multi-platform mobile app for students and teachers  
+- Features: course sharing, quizzes, messaging, event management  
+- Real-time database (Firestore) and push notifications  
 
-**🛠️ Tech Stack**  
-<img src="https://skillicons.dev/icons?i=symfony,mysql,html,css" />
+---
+
+## 🎓 Education
+
+- **Master’s in Information Systems & Networks** – Sept 2023 – Jun 2025  
+  Institut Supérieur des Etudes Technologiques, Sfax, Tunisia
+
+- **Bachelor’s in Computer Science: Software Engineering** – Sept 2020 – Jun 2023  
+  Faculté des Sciences, Gafsa, Tunisia
 
 ---
 
 ## 🌍 Languages
 
 - Arabic — Native  
-- French — Fluent  
+- French — Intermediate  
 - English — Intermediate  
+
+---
+
+## 🎨 Hobbies
+
+Traveling · Gardening · Reading · Cycling
 
 ---
 
@@ -131,7 +135,6 @@ Web application to manage students, grades, and attendance with secure authentic
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
   <sub>Building scalable solutions • Learning every day • Open to opportunities</sub>
 </p>
