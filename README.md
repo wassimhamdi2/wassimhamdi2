@@ -1,82 +1,37 @@
-<!-- Modern GitHub Profile README for Wassim Hamdi -->
-<div align="center">
+# 👋 Hey there, I'm **Wassim Hamdi**
+### 💻 Full Stack Developer | 🌍 Tunisia
 
-# 👋 Hey there, I'm **Wassim Hamdi**  
-### 💻 Full Stack Developer | 🌍 From Tunisia  
+![Profile Views](https://komarev.com/ghpvc/?username=wassimhamdi2)
+![Followers](https://img.shields.io/github/followers/wassimhamdi2)
 
-![Profile Views](https://komarev.com/ghpvc/?username=wassimhamdi2&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/wassimhamdi2?label=Follow&style=social)](https://github.com/wassimhamdi2)
-[![LinkedIn Badge](https://img.shields.io/badge/-Wassim%20Hamdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hamdiwassim)
-
----
-
-## 🎯 About Me
-
-🚀 Passionate about **Full Stack Development**, **DevOps**, and scalable systems  
-💡 Always learning, building, and improving  
-🌐 Portfolio: [**wassimhamdi.dev**](https://portfolio-dusky-xi-fcqm31is19.vercel.app/)  
-📫 Email: **whamdi617@gmail.com**
+🔗 [LinkedIn](https://linkedin.com/in/hamdiwassim)  
+🌐 [Portfolio](https://portfolio-dusky-xi-fcqm31is19.vercel.app/)  
+📫 whamdi617@gmail.com  
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Tech Stack
 
-<p align="center">
-
-<!-- Backend / Frontend -->
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,dotnet,php,symfony,react" /><br/>
-
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,postman,azure" /><br/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" /><br/>
-
-<!-- Others -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,tailwind,bootstrap" />
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/hamdiwassim">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
-  </a>
-  <a href="mailto:whamdi617@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/wassimhamdi2">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
-  </a>
-</p>
+![Tech](https://skillicons.dev/icons?i=java,spring,angular,ts,js,dotnet,php,symfony,react)
+![Tools](https://skillicons.dev/icons?i=docker,linux,git,github,postman,azure)
+![DB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis)
+![UI](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wassimhamdi2&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wassimhamdi2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhamdi2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=wassimhamdi2&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=wassimhamdi2&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhamdi2&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=onedark&no-frame=true"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=onedark)
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
-⭐️ From [WassimHamdi2](https://github.com/wassimhamdi2)
-
-</div>
+⭐ *Code is like humor. When you have to explain it, it’s bad.*  
+— Wassim Hamdi
