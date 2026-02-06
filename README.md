@@ -1,4 +1,4 @@
-<!-- Modern GitHub Profile README for Wassim Hamdi -->
+<!-- GitHub Profile README for Wassim Hamdi -->
 
 <div align="center">
 
@@ -16,8 +16,8 @@
 ## 🎯 About Me
 
 🚀 Passionate about **Full Stack Development**, **DevOps**, and scalable systems  
-💡 Constantly learning and experimenting with new technologies  
-🌐 Portfolio: **https://portfolio-dusky-xi-fcqm31is19.vercel.app/**  
+💡 Always learning and experimenting with modern technologies  
+🌐 Portfolio: https://portfolio-dusky-xi-fcqm31is19.vercel.app/  
 📫 Email: **whamdi617@gmail.com**
 
 ---
@@ -26,16 +26,9 @@
 
 <p align="center">
 
-<!-- Core -->
 <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,dotnet,php,symfony,react" /><br/>
-
-<!-- DevOps & Tools -->
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,github,postman,azure" /><br/>
-
-<!-- Databases -->
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" /><br/>
-
-<!-- Others -->
 <img src="https://skillicons.dev/icons?i=flutter,dart,figma,html,css,tailwind,bootstrap" />
 
 </p>
@@ -46,13 +39,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hamdiwassim">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
   <a href="mailto:whamdi617@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
   </a>
   <a href="https://github.com/wassimhamdi2">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
   </a>
 </p>
 
@@ -71,9 +64,9 @@
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 
-![trophy](https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=onedark&no-frame=true&margin-w=15)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wassimhamdi2&theme=tokyo-night&hide_border=true)
 
 ---
 
