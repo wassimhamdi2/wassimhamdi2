@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/wassimhamdi2?label=Follow&style=social)](https://github.com/wassimhamdi2)
 [![LinkedIn Badge](https://img.shields.io/badge/-Wassim%20Hamdi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hamdiwassim)
 
-</div>
+
 
 ---
 
@@ -69,6 +69,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wassimhamdi2&theme=tokyo-night&hide_border=true)
 
 ---
-
+</div>
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
 ⭐️ From **[WassimHamdi2](https://github.com/wassimhamdi2)**
