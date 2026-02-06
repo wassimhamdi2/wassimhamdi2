@@ -115,13 +115,6 @@ Curious, rigorous, and adaptable, motivated to create **high-performance, scalab
 
 Traveling · Gardening · Reading · Cycling
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wassimhamdi2&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
