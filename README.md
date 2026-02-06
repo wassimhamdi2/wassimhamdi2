@@ -73,14 +73,13 @@ Curious, rigorous, and adaptable, motivated to create **high-performance, scalab
 
 ---
 
-### **MOMSOFT — Student Internship Project**  
+### **Faculty of Sciences — Student Internship Project**  
 📅 Feb 2023 – May 2023 · Gafsa, Tunisia  
-`Spring Boot · Angular · UML · CI/CD`
+`Flutter · Dart · Firebase · GitHub · Agile`
 
-- Developed **mobile and web modules**  
-- Designed dashboard for technical process digitalization  
-- Applied clean architecture & MVC best practices
-
+- Multi-platform mobile app for students and teachers  
+- Features: course sharing, quizzes, messaging, event management  
+- Real-time database (Firestore) and push notifications  
 ---
 
 ### **Library Management System (Academic Project)**  
@@ -91,15 +90,6 @@ Curious, rigorous, and adaptable, motivated to create **high-performance, scalab
 - User-friendly interface for managing books, authors, and sales  
 - Secure access with role management
 
----
-
-### **Educational Mobile App (Academic Project)**  
-📅 2023  
-`Flutter · Dart · Firebase · GitHub · Agile`
-
-- Multi-platform mobile app for students and teachers  
-- Features: course sharing, quizzes, messaging, event management  
-- Real-time database (Firestore) and push notifications  
 
 ---
 
