@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 **About Me**
+🎯 **About Me**
 
 🚀 Passionate about **Full Stack Development**, **DevOps**, and building scalable solutions.  
 💡 Always learning & experimenting with new technologies.  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧠 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 
 <p align="center">
   <!-- Core -->
@@ -35,7 +35,7 @@
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/hamdiwassim" target="blank">
@@ -51,31 +51,23 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wassimhamdi2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wassimhamdi2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wassimhamdi2&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wassimhamdi2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhamdi2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=discord&no-frame=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimhamdi2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wassimhamdi2&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wassimhamdi2&theme=discord&no-frame=true&row=1&column=7" />
 </p>
 
 ---
